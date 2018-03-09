@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidSystemNew</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvnogroup">Please Add New Group</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LecNO">LecNO:</string>
+    <string name="studentno">StuNo</string>
+    <string name="addLec">Add Lec</string>
+    <string name="actionbar">Groups Added</string>
+    <string name="title_activity_scan_list">ScanListActivity</string>
+</resources>
